@@ -1,1 +1,1 @@
-# Hello, This is LeoHouse.
+# Hello, this is LeoHouse.
